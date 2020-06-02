@@ -1,0 +1,36 @@
+html,body{
+   
+    margin: 0;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+      'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+      sans-serif;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+      text-align: center;
+  
+}
+.container{
+  margin: 80px auto 0 auto;
+  max-width: 1200 px
+}
+.nav-container{
+  margin: auto; 
+}
+.media{
+  margin-bottom: 10px;
+  margin-top:10px;
+}
+.links{
+  text-decoration: none;
+  color:#42f5ef;
+}
+img{
+  width: 200px;
+}
+.signup-text{
+  padding:10px;
+}
+.heart-like{
+  color: red;
+}
+
